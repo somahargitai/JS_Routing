@@ -1,6 +1,7 @@
 {
   "name": "jsrouting",
-  "version": "0.1.0",
+  "description": "a React Router example app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
@@ -10,6 +11,11 @@
   },
   "author": "Soma Hargitai",
   "license": "Creative Commons, MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/somahargitai/JS_Routing.git"
+  },
+  "homepage": "https://github.com/somahargitai/JS_Routing",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
