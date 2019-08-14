@@ -3,7 +3,9 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import About from "./About";
 import Shop from "./Shop";
+import Market from "./Market";
 import ItemDetail from "./Itemdetail";
+import MarketItemDetail from "./marketItemdetail";
 import Nav from './Nav';
 
 function App() {
@@ -30,6 +32,8 @@ function App() {
             <Route path="/about" component={About} />
             <Route path="/shop" exact component={Shop} />
             <Route path="/shop/:id" component={ItemDetail} />
+            <Route path="/market" exact component={Market} />
+            <Route path="/market/item" component={MarketItemDetail} />
           </Switch>
         </div>
       </div>

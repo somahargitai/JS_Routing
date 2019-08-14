@@ -5,9 +5,9 @@ This is a simple demo app for React Router, following [Dev Ed's tutorial video](
 * http://localhost:3000/about
 * http://localhost:3000/shop/ae442d0-a3b40b1-63c984d-e36623f
 
-I made some minor modifications compared to the original tutorial. 
+I made some minor modifications compared to the original tutorial. To provide a broader insight, I have added a query parameter case as _Market_ to the existing dynamic routing case called _Shop_. 
 
-Thanks for Ed, It helped me a lot. 
+Thanks for [Ed](https://github.com/DevEdwin) for making the tutorial and Filip for the help about query parameters.
 
 
 _Further plans: I would like to apply the same app with typescript, which is clearly the future of such apps_

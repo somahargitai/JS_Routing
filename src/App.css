@@ -42,3 +42,7 @@ nav {
   text-decoration: none;
   display: inline-block;
 }
+
+.Fetched img {
+  width: 250px;
+}

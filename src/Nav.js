@@ -11,6 +11,7 @@ export const Nav = props => (
       <Link to="/">     <li> Home  </li></Link>
       <Link to="/about"><li> About </li></Link>
       <Link to="/shop"> <li> Shop  </li></Link>
+      <Link to="/market"> <li> Market  </li></Link>
     </ul>
   </nav>
 )
