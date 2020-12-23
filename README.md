@@ -1,5 +1,7 @@
 # React Routing with React Router
 
+`!` __important__: Fortnite API does not work any more (neither Dev Ed's github), so you have to replace shop item routing to see something there.
+
 This is a simple demo app for React Router, following [Dev Ed's tutorial video](https://www.youtube.com/watch?v=Law7wfdg_ls). It uses BrowserRouter, Switch, Route and Link to provide static and dynamic routes, fetching JSON and images from [FortniteAPI](https://docs.fortniteapi.com/?version=latest). You will get URLs like 
 * http://localhost:3000/
 * http://localhost:3000/about
